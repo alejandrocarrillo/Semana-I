@@ -1,0 +1,6 @@
+#Files to ignore
+temp.txt
+.DS_Store
+*.zip
+*.gz
+assets/photoshop/
