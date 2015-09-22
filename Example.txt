@@ -1,1 +1,1 @@
-Here is an example of a text file. I am modifying the text and it is going to be push.
+Here is an example of a text file. I am modifying the text and it is going to be push. diffmerge example.
